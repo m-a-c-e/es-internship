@@ -1,0 +1,13 @@
+name: es-depth-from-stereo
+channels:
+  - conda-forge
+dependencies:
+  - python==3.10.4
+  - opencv==4.5.5
+  - numpy==1.22.4
+  - scipy==1.8.1
+  - pyzmq==23.2.0
+  - pytorch==1.11.0
+  - torchvision==0.12.0
+  - pillow==9.1.1
+  - scikit-image==0.19.3
