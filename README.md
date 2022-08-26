@@ -7,7 +7,7 @@ Given: a calibrated pair of orlaco cameras
 
 The mosaic image below shows the four major steps involved in the pipeline. These steps are discussed in detail below.
 ![Result](dfs.jpg?raw=true)
-_Figure 1. The Four Major Steps Involved in the Pipeline_
+Figure 1. The Four Major Steps Involved in the Pipeline_
 
 ## 1. Image Processing
 &ensp;&ensp;&ensp;&ensp;&ensp;
