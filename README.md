@@ -5,7 +5,7 @@ Given: a calibrated pair of orlaco cameras
 - Pipeline input: &ensp;&ensp;&ensp;two stereo images
 - Pipeline output: &ensp; one image marking the distance (meters) of safety vest colored objects (orange and yellow)
 
-The mosaic image below shows the four major steps involved in the pipeline. These steps are discussed in detail below.
+The mosaic image below shows the result of the pipeline. The 4 steps involved are discussed in detail below.
 ![Result](dfs.jpg?raw=true)
 _Figure 1. Depth from stereo for objects with safety vest colors_
 
