@@ -6,7 +6,7 @@ Given: a calibrated pair of orlaco cameras
 - Pipeline output: &ensp; one image marking the distance (meters) of safety vest colored objects (orange and yellow)
 
 The mosaic image below shows the four major steps involved in the pipeline. These steps are discussed in detail below.
-![Result](es-internship/dfs.jpg?raw=true)
+![Result](m-a-c-e/es-internship/dfs.jpg?raw=true)
 _Figure 1. The Four Major Steps Involved in the Pipeline_
 
 ## 1. Image Processing
